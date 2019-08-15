@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f755149-dab8-4e6b-ada5-f9c4b1f4a5ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Canvas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbConnect/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbConnect/dbConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/Chromedriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/logger.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-653911785">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="69" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="32" />
+          <entry key="project.open.time.6" value="22" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.opened" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="except" value="4" />
+          <entry key="exempt" value="5" />
+          <entry key="gitignore" value="1" />
+          <entry key="json" value="1" />
+          <entry key="profile" value="2" />
+          <entry key="py" value="25" />
+          <entry key="treat" value="1" />
+          <entry key="user" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="except" value="50" />
+          <entry key="exempt" value="32" />
+          <entry key="gitignore" value="109" />
+          <entry key="profile" value="79" />
+          <entry key="py" value="15990" />
+          <entry key="txt" value="13" />
+          <entry key="user" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="350" />
+          <entry key="Python" value="15990" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+                <marker date="1565859376047" expanded="true" signature="2283:2373" ph="..." />
+                <marker date="1565859376047" expanded="true" signature="8921:8927" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dbConnect/dbConnector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-677">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1565859046227" expanded="true" signature="84:1511" ph="..." />
+                <marker date="1565859046227" expanded="true" signature="509:788" ph="..." />
+                <marker date="1565859046227" expanded="true" signature="1450:1456" ph="..." />
+                <marker date="1565859046227" expanded="true" signature="1482:1491" ph="..." />
+                <marker date="1565859046227" expanded="true" signature="1558:1567" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/user">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/exempt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+              <folding>
+                <marker date="1565848817660" expanded="true" signature="111:352" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1565850420816" expanded="true" signature="387:388" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n            self\.curs\.execute\(sql\)\n            rows \= self\.curs\.fetchall\(\)\n            if\(rows \=\= \'0\'\)\:\n                return True\n            else\:\n                return False</find>
+      <find>print</find>
+      <find>유이당</find>
+      <find>피스</find>
+      <find>덕쑤</find>
+      <find>냥이</find>
+      <find>로스</find>
+      <find>워터</find>
+      <find>crawler</find>
+      <find>cra</find>
+      <find>treat</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crawler/prime.py" />
+        <option value="$PROJECT_DIR$/crawler/test.py" />
+        <option value="$PROJECT_DIR$/crawler/crawl.py" />
+        <option value="$PROJECT_DIR$/util/except" />
+        <option value="$PROJECT_DIR$/util/profile" />
+        <option value="$PROJECT_DIR$/dbConnect/dbInfo.py" />
+        <option value="$PROJECT_DIR$/controller/test.py" />
+        <option value="$PROJECT_DIR$/controller/crawl.py" />
+        <option value="$PROJECT_DIR$/util/exempt" />
+        <option value="$PROJECT_DIR$/util/info.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/util/logger.py" />
+        <option value="$PROJECT_DIR$/dbConnect/dbConnector.py" />
+        <option value="$PROJECT_DIR$/util/user" />
+        <option value="$PROJECT_DIR$/crawl.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="36" />
+    <option name="width" value="1892" />
+    <option name="height" value="1018" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas" type="462c0819:PsiDirectoryNode" />
+              <item name="dbConnect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Canvas" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="Chromedriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (Canvas) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/카카오톡 받은 파일/Untitled Folder" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python\Canvas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python\Canvas" />
+      <recent name="C:\Python\Canvas\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.crawl (2)">
+    <configuration name="crawl (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Canvas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Canvas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Python\Canvas\crawl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Canvas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Canvas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/util/logger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Canvas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.crawl" />
+      <item itemvalue="Python.info" />
+      <item itemvalue="Python.crawl (2)" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.logger" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crawl (2)" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.info" />
+        <item itemvalue="Python.crawl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f755149-dab8-4e6b-ada5-f9c4b1f4a5ee" name="Default Changelist" comment="" />
+      <created>1548416826647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548416826647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="36" width="1892" height="1018" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14778857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32883435" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33031675" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33225107" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Anaconda3/envs/Canvas/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1348" column="8" selection-start-line="1348" selection-start-column="8" selection-end-line="1348" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/envs/Canvas/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="712" selection-start-line="712" selection-end-line="712" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/prime.py" />
+    <entry file="file://$PROJECT_DIR$/util/hook-couchbase.py" />
+    <entry file="file://$PROJECT_DIR$/util/dbConfig.json" />
+    <entry file="file://$PROJECT_DIR$/util/pycbc-winbuild.py" />
+    <entry file="file://$PROJECT_DIR$/crawler/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/dbConnect/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/crawl.py" />
+    <entry file="file://$PROJECT_DIR$/crawler/test.py" />
+    <entry file="file://C:/Anaconda3/envs/Canvas/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/profile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/except">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/exempt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/envs/Canvas/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/user">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1565850420816" expanded="true" signature="387:388" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="99" column="22" lean-forward="true" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1565848817660" expanded="true" signature="111:352" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="40" lean-forward="true" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <marker date="1565859376047" expanded="true" signature="2283:2373" ph="..." />
+            <marker date="1565859376047" expanded="true" signature="8921:8927" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbConnect/dbConnector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-677">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1565859046227" expanded="true" signature="84:1511" ph="..." />
+            <marker date="1565859046227" expanded="true" signature="509:788" ph="..." />
+            <marker date="1565859046227" expanded="true" signature="1450:1456" ph="..." />
+            <marker date="1565859046227" expanded="true" signature="1482:1491" ph="..." />
+            <marker date="1565859046227" expanded="true" signature="1558:1567" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
