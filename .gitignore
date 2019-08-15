@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# information files
+except
+exempt
+profile
+user
+
+# dummy python file
+test.py
+
+# logs
+log/
